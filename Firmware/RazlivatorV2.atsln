@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "RazlivatorV2", "RazlivatorV2\RazlivatorV2.cproj", "{7BF69399-0E18-4E66-9A86-9137BE8E4C49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BF69399-0E18-4E66-9A86-9137BE8E4C49}.Debug|AVR.ActiveCfg = Debug|AVR
+		{7BF69399-0E18-4E66-9A86-9137BE8E4C49}.Debug|AVR.Build.0 = Debug|AVR
+		{7BF69399-0E18-4E66-9A86-9137BE8E4C49}.Release|AVR.ActiveCfg = Release|AVR
+		{7BF69399-0E18-4E66-9A86-9137BE8E4C49}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
