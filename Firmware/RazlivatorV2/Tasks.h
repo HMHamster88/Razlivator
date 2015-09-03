@@ -14,7 +14,7 @@
 #endif
 
 #ifndef TICK_MS
-#define TICK_MS 4
+#define TICK_MS 5
 #endif
 
 struct Task{
